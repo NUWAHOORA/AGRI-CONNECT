@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
+Agri-Connect is a web-based agricultural marketplace built to connect farmers and buyers in Kiruhura and Kazo Districts. The platform allows farmers to list produce (milk, matooke, and coffee), buyers to place orders, admins to update commodity prices, and all users to experience a more transparent and efficient agricultural value chain.
 
-## Project info
+This project eliminates middlemen exploitation, reduces post-harvest losses, and supports direct farmer-to-buyer interactions.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+⭐ Key Features
+👨‍🌾 Farmer Features
 
-## How can I edit this code?
+Register and log in securely
 
-There are several ways of editing your application.
+Add produce listings (milk, matooke, coffee)
 
-**Use Lovable**
+View updated weekly commodity prices
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Receive buyer orders
 
-Changes made via Lovable will be committed automatically to this repo.
+Accept online mobile-money payments
 
-**Use your preferred IDE**
+View order & payment history
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🛒 Buyer Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Register and log in
 
-Follow these steps:
+View & filter produce listings
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Place direct order requests
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Pay online using MTN MoMo / Airtel Money
 
-# Step 3: Install the necessary dependencies.
-npm i
+Request transport
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+🛠 Admin Features
 
-**Edit a file directly in GitHub**
+Approve farmers and buyers
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Update weekly commodity prices
 
-**Use GitHub Codespaces**
+View system statistics
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Monitor produce listings and transactions
 
-## What technologies are used for this project?
+Logins
+admin.
+email:nuwahoorabrian02@gmail.com
+password:1234567890
+farmer.
+email:ahumuzab@gmail.com
+password:1234567890
+buyer
+email:kwesigaa@gnail.com
+password:1234567890
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Manage suspicious users
